@@ -17,4 +17,3 @@ The Kociemba algorithm is taken from https://github.com/muodov/kociemba
 ## Demo
 
 [![Robot Video](robot_picture.png)](https://www.youtube.com/embed/k3oqfdmwf6c "Robot Video")
-
